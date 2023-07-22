@@ -1,6 +1,6 @@
 // UDPApplication.cpp : UDP server.
 // Copyright (c) Omar Ramirez 11/15/2022
-//
+//About: Run this application as well as chat app (Oastes)-1 to able commincation between chap app (Oastes)-1 and console application
 #include <string>
 #include <WinSock2.h>
 #include <Ws2tcpip.h>
