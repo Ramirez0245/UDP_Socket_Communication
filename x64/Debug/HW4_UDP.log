@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\colle\source\repos\HW4_UDP\HW4_UDP\main.cpp(76,66): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\colle\source\repos\HW4_UDP\HW4_UDP\main.cpp(92,70): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  HW4_UDP.vcxproj -> C:\Users\colle\source\repos\HW4_UDP\x64\Debug\HW4_UDP.exe
